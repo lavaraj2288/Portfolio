@@ -15,7 +15,7 @@ const projectsData = [
     desc: "A personal developer portfolio website showcasing my skills, projects, and experience. Built with Next.js, React, Tailwind CSS, and Framer Motion.",
     image: "/projects/portfolio.png",
     tags: ["Next.js", "React", "Tailwind CSS", "Framer Motion"],
-    github: "https://github.com/Gittyasn/portfolio",
+    github: "https://github.com/lavaraj2288/portfolio",
     demo: "#home",
   },
   {
